@@ -1,0 +1,16 @@
+h1{
+    border-top: silver double;
+    border-bottom: silver double;
+    border-left: steelblue dotted;
+    border-right: steelblue dotted;
+}
+
+p{
+    border-style: outset;
+    background-image: -moz-linear-gradient();
+    background-color: aquamarine;
+    border-width: 5px;
+    border-color: blueviolet;
+    border-radius: 10px;
+    padding: auto;
+}

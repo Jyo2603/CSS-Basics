@@ -1,0 +1,19 @@
+body{
+    background-image: url(pexels-photo-2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1{
+    background: linear-gradient(to right, lightblue , rgb(87, 209, 87) );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    background: linear-gradient(to left, lightblue , rgb(121, 235, 121) );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
